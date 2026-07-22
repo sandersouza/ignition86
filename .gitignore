@@ -1,0 +1,5 @@
+# Build artifacts
+*.bin
+
+# MacOS files
+.DS_Store
